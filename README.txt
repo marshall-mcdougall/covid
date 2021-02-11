@@ -1,0 +1,1 @@
+This repository contains the code for covid data science analysis course on udemy.
